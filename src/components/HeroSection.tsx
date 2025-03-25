@@ -55,10 +55,10 @@ export default function HeroSection() {
       >
         <div className="max-w-7xl">
           <h1 className="text-[4rem] md:text-[5.5rem] lg:text-[7rem] font-bold leading-none tracking-tighter uppercase">
-            BIGHUT
+            HALO
           </h1>
           <h1 className="text-[4rem] md:text-[5.5rem] lg:text-[7rem] font-bold leading-none tracking-tighter uppercase">
-            COMPANY
+            Architect
           </h1>
           
           <div className="mt-8 max-w-xl">
