@@ -79,8 +79,15 @@ export default function PhilosophySection() {
             Our Mission
           </h3>
           <p className="text-xl md:text-2xl max-w-3xl mx-auto opacity-80 italic font-heading">
-            "To create architectural masterpieces that inspire, function flawlessly, and 
-            contribute positively to our environment and communities."
+            "Designing sustainable, innovative, and timeless spaces that inspire and enhance lives."
+          </p>
+        </div>
+        <div className="mt-16 bg-secondary/20 rounded-lg p-8 md:p-12 text-center">
+          <h3 className="text-2xl md:text-3xl font-heading font-bold mb-4">
+            Our Vision
+          </h3>
+          <p className="text-xl md:text-2xl max-w-3xl mx-auto opacity-80 italic font-heading">
+            "To redefine modern architecture with creativity, sustainability, and human-centered design."
           </p>
         </div>
       </div>
